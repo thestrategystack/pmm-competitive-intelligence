@@ -1,5 +1,5 @@
 # pmm-competitive-analysis
-# Competitive Intelligence Claude Skill
+## Competitive Intelligence Claude Skill
 
 An AI-assisted research skill designed to help marketers and product marketing professionals conduct structured competitive research, evaluate market evidence and turn findings into actionable insights.
 
